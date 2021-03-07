@@ -1,0 +1,5 @@
+kernel config for HP Elite 8200
+Intel graphics
+Intel 7265 wireless
+No initramfs
+No NVME
